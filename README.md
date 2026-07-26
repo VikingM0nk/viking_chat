@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/30382277/README.md)
 # viking_chat
 
-Western-styled RedM chat for Darkwood County. Replaces the default GTA Online chat box with floating text that fades out and a slim centered composer that only appears while typing.
+Western-styled RedM chat. Replaces the default GTA Online chat box with floating text that fades out and a slim centered composer that only appears while typing.
 
 ## Behaviour
 
@@ -19,9 +19,3 @@ Western-styled RedM chat for Darkwood County. Replaces the default GTA Online ch
    ensure chat
    ```
 3. Restart the server (or `ensure chat` after stopping the old one).
-
-## Sync
-
-```powershell
-& "C:\Users\Darlene\OneDrive\Desktop\RedM Scripts\sync-viking-chat.ps1"
-```
